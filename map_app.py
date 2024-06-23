@@ -12,8 +12,8 @@ AUTH_URL = 'https://maps.googleapis.com/maps/'\
 #   'Content-Type': 'application/json',
 #   'X-Goog-Api-Key': key,
 #   'X-Goog-FieldMask': 'routes.duration, 
-                              # routes.distanceMeters, 
-                              # routes.polyline.encodedPolyline'
+#                     routes.distanceMeters, 
+#                     routes.polyline.encodedPolyline'
 # }
 
 auth_response = requests.get(AUTH_URL)
