@@ -15,5 +15,5 @@ This project uses the Google map API to display the timezone of a location.
 3. Include a variable, *key* and set it to the API key
 4. Run code file
 
-![example workflow]
-(https://github.com/sheisgracious/repoProject/actions/workflows/stylecheck.yaml/badge.svg)
+![stylecheck]
+(https://github.com/sheisgracious/repoProject/actions/workflows/stylecheck.yaml/badge.svg?event=push)
