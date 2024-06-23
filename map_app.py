@@ -11,7 +11,7 @@ AUTH_URL = 'https://maps.googleapis.com/maps/'\
 # headers = {
 #   'Content-Type': 'application/json',
 #   'X-Goog-Api-Key': key,
-#   'X-Goog-FieldMask': 'routes.duration, 
+#   'X-Goog-FieldMask': 'routes.duration,
 #                     routes.distanceMeters, 
 #                     routes.polyline.encodedPolyline'
 # }
