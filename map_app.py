@@ -12,7 +12,7 @@ AUTH_URL = 'https://maps.googleapis.com/maps/'\
 #   'Content-Type': 'application/json',
 #   'X-Goog-Api-Key': key,
 #   'X-Goog-FieldMask': 'routes.duration,
-#                     routes.distanceMeters, 
+#                     routes.distanceMeters,
 #                     routes.polyline.encodedPolyline'
 # }
 
